@@ -9,7 +9,7 @@
 - [ ] Start working on the app
 
 ### Useful suggestions
-- You might want to learn the basics of git first if you don't know it already
+- You might want to learn the basics of `git` first if you don't know it already
 - I'll be checking the progress on your forked repo, so keep checking the items in `Instructions`, `Task Description` & `Reading Material` as you complete them.
 - <strong> It is not necessary to complete all the tasks. </strong> Complete as many as you can.
 - The links to the resources in the `Reading Material` sections are just suggestions. All that matters is that you are familiar with the mentioned topics. Feel free to Google the topics on your own (which I recommend) and, say, read a `Medium` article instead.
