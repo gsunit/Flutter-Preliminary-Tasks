@@ -5,7 +5,7 @@
 - [ ] Install Flutter on your laptop.
 - [ ] Create and run a new app (either using an emulator, or in your own device).
 - [ ] Upload the contents of the app on your forked Github repository.
-- [ ] Create a new issue on your forked repo. Copy the contents of this README and paste it there so that you can tick the tasks that you have completed.
+- [ ] Create a new issue on the original repo (not your forked repo). Copy the contents of this README and paste it inside the issue so that you can tick the tasks that you have completed.
 - [ ] Start working on the app.
 
 ### Useful suggestions
